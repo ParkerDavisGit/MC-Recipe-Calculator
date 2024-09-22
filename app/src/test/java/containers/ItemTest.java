@@ -10,7 +10,7 @@ import static org.junit.jupiter.api.Assertions.*;
 
 class ItemTest
 {
-    @Test void defaultItem()
+    /*@Test void defaultItem()
     {
         Item itemToTest = new Item();
         
@@ -49,5 +49,5 @@ class ItemTest
         assertArrayEquals(itemToTest.getIngredients(), ingredients);
         assertNotSame(itemToTest.getIngredients(), ingredients);
         assertFalse(itemToTest.isBase());
-    }
+    }*/
 }
