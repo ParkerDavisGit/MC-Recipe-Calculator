@@ -4,8 +4,6 @@
 
 import containers.*;
 
-import java.util.ArrayList;
-
 public class RecipeCalculator
 {
     public static void main(String[] args)
@@ -13,13 +11,7 @@ public class RecipeCalculator
         // Constructing *the book*
         RecipeBook recipe_book = new RecipeBook();
 
-        ArrayList<String> recipe = new ArrayList<String>();
-
-        recipe.add("stick x2");
-        recipe.add("wooden plank x3");
-
-        recipe_book.addRecipe("wooden pickaxe", recipe);
-
-        System.out.println(recipe_book.toString());
+        //System.out.println(recipe_book.calculateIngredients("electric_motor_lv"));
+        System.out.println(recipe_book.calculateIngredients("wooden_paxel", 1));
     }
 }
