@@ -1,0 +1,32 @@
+electric_motor_lv 1
+1x_tin_cable 2 1x_copper_wire 4 iron_rod 2 magnetic_iron_rod 1
+1x_tin_cable 1
+1x_tin_wire 1 rubber_sheet 1
+1x_tin_wire 1
+tin_plate 1
+tin_plate 1
+tin_ingot 1
+rubber_sheet 1
+rubber_ingot 1
+rubber_ingot 1
+rubber_dust 3 sulfer_dust 1
+rubber_dust 3
+sticky_resin 1
+1x_copper_wire 1
+copper_plate 1
+copper_plate 1
+copper_ingot 1
+iron_rod 1
+iron_ingot 1
+magnetic_iron_rod 1
+iron_rod 1 redstone_dust 4
+wooden_paxel 1
+wooden_axe 1 wooden_pickaxe 1 wooden_shovel 1
+wooden_axe 1
+wooden_planks 3 sticks 2
+wooden_pickaxe 1
+wooden_planks 3 sticks 2
+wooden_shovel 1
+wooden_planks 1 sticks 2
+sticks 1
+wooden_sticky_planks 1
